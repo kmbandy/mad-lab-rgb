@@ -8,3 +8,6 @@ from .ripple import Ripple
 __all__ = ["Aurora", "Breathing", "ColorShift", "RainbowWave", "Starfield", "Fire", "Ripple"]
 from .shooting_stars import ShootingStars
 __all__ += ["ShootingStars"]
+
+from .deep_ocean import DeepOcean
+__all__ += [DeepOcean]

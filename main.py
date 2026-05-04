@@ -14,7 +14,7 @@ from mad_rgb.layout import load_layout, layout_key
 from mad_rgb.devices.psu import ToughpowerIRGB
 from mad_rgb.devices.openrgb_device import OpenRGBDevice
 from mad_rgb.devices.razer_device import RAZER_NAMES, build_razer_devices
-from mad_rgb.effects import ShootingStars, Aurora, Breathing, ColorShift, RainbowWave, Starfield, Fire, Ripple
+from mad_rgb.effects import ShootingStars, DeepOcean, Aurora, Breathing, ColorShift, RainbowWave, Starfield, Fire, Ripple
 
 EFFECTS = {
     "aurora":        Aurora(speed=0.8),
@@ -25,6 +25,7 @@ EFFECTS = {
     "fire":          Fire(speed=1.0, intensity=0.9),
     "ripple":        Ripple(speed=1.2, color=(0, 200, 255)),
     "shootingstars": ShootingStars(),
+    "deepocean":     DeepOcean(),
 }
 
 effect_name = sys.argv[1] if len(sys.argv) > 1 else "aurora"
