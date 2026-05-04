@@ -1,0 +1,83 @@
+{
+  "_comment": "Canvas is 0-1 in both axes. x/y = top-left corner, w/h = size. Edit to match your physical layout.",
+  "Corsair Vengeance Pro RGB 0": {
+    "leds": 10,
+    "x": 0.2,
+    "y": 0.65,
+    "w": 0.04,
+    "h": 0.28,
+    "orientation": "vertical"
+  },
+  "Corsair Vengeance Pro RGB 1": {
+    "leds": 10,
+    "x": 0.22,
+    "y": 0.65,
+    "w": 0.04,
+    "h": 0.28,
+    "orientation": "vertical"
+  },
+  "ASRock X570 Phantom Gaming-ITX/TB3": {
+    "leds": 24,
+    "x": 0.02,
+    "y": 0.7,
+    "w": 0.28,
+    "h": 0.28,
+    "orientation": "matrix"
+  },
+  "Razer Core X": {
+    "leds": 16,
+    "x": 0.05,
+    "y": 0.1,
+    "w": 0.12,
+    "h": 0.42,
+    "orientation": "vertical"
+  },
+  "Thermaltake Toughpower iRGB PLUS": {
+    "leds": 12,
+    "x": 0.02,
+    "y": 0.9,
+    "w": 0.12,
+    "h": 0.12,
+    "orientation": "ring"
+  },
+  "Razer Goliathus Extended": {
+    "leds": 1,
+    "x": 0.17,
+    "y": 0.34,
+    "w": 0.78,
+    "h": 0.34,
+    "orientation": "horizontal"
+  },
+  "Razer Ornata Chroma": {
+    "leds": 132,
+    "x": 0.2,
+    "y": 0.4,
+    "w": 0.62,
+    "h": 0.18,
+    "orientation": "matrix"
+  },
+  "Razer Mamba Elite": {
+    "leds": 20,
+    "x": 0.91,
+    "y": 0.4,
+    "w": 0.07,
+    "h": 0.14,
+    "orientation": "matrix"
+  },
+  "Razer Mouse Bungee V3 Chroma": {
+    "leds": 8,
+    "x": 0.91,
+    "y": 0.15,
+    "w": 0.05,
+    "h": 0.14,
+    "orientation": "vertical"
+  },
+  "Razer Base Station V2 Chroma": {
+    "leds": 8,
+    "x": 0.12,
+    "y": 0.1,
+    "w": 0.06,
+    "h": 0.22,
+    "orientation": "vertical"
+  }
+}
